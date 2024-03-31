@@ -3,5 +3,5 @@
 
 
 ```sql
-CREATE DATABASE .your database name.
+CREATE DATABASE database_name
 ```
