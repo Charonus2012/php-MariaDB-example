@@ -1,0 +1,22 @@
+/* Styling */ 
+html {
+    background-color: #c7b583; /* Light gray background color */
+    font-family: 'Arial', sans-serif; /* Choose an appropriate font */
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    text-align: center;
+}
+
+input {
+    /*margin: 6px;*/
+    padding: 5px;
+    border-radius: 7px;
+}
+
+button {
+    margin: 6px;
+    padding: 5px;
+    border-radius: 7px;
+}
