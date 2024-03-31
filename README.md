@@ -1,5 +1,7 @@
 # MariaDB PHP example
 
+
+
 ```sql
-CREATE DATABASE test
+CREATE DATABASE .your database name.
 ```
