@@ -1,5 +1,3 @@
-# php-MariaDB-example
+# MariaDB PHP example
 
-```php
-echo "Hi";
-```
+
