@@ -15,7 +15,7 @@
         <Button>Sign up</Button>
     </form>
     <h3>Show name of id</h3>
-    <form action="./get_example.inc.php" method="post"><br>
+    <form action="./get_example.inc.php" method="post">
         <input type="number" name="id" placeholder="id"><br>
         <Button>Show name of id</Button>
     </form>
