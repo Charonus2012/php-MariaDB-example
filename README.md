@@ -11,9 +11,10 @@ CREATE DATABASE database_name;
 Then create table with id, username, password:
 ```sql
 CREATE TABLE users (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  username VARCHAR(100),
+  id INT AUTO_INCREMENT NOT NULL,
+  username VARCHAR(100) NOT NULL,
   pwd VARCHAR(150),
+  PRIMARY KEY(id),
   UNIQUE INDEX(username)
 );
 ```
