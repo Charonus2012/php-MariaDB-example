@@ -27,7 +27,7 @@ First create database:
 CREATE DATABASE database_name;
 ```
 
-Then create table with id, username, password:
+Then for our example, create table with id, username and password like this:
 ```sql
 CREATE TABLE users (
   id INT AUTO_INCREMENT NOT NULL,
