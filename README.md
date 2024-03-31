@@ -21,6 +21,8 @@ $password = "";
 
 ## Database
 
+You can use some program like HeidiSQL
+
 Database prepare for this example(sql language):
 First create database:
 ```sql
