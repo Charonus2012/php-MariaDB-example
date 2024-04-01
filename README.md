@@ -34,7 +34,6 @@ Then for our example, create table with id, username and password like this:
 CREATE TABLE users (
   id INT AUTO_INCREMENT NOT NULL,
   username VARCHAR(100) NOT NULL,
-  pwd VARCHAR(150),
   PRIMARY KEY(id),
   UNIQUE INDEX(username)
 );
