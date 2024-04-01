@@ -11,7 +11,6 @@
     <h3>Sign up</h3>
     <form action="./store_example.inc.php" method="post">
         <input type="text" name="username" placeholder="Username"><br>
-        <input type="password" name="pwd" placeholder="Password"><br>
         <Button>Sign up</Button>
     </form>
     <h3>Show name of id</h3>
